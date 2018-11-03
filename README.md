@@ -1,7 +1,7 @@
 # PKrs_currency
 Pakistan currency classification using deep learning, **The model achieved a classification accuracy of 98.5%**.
 
-### The notebook for training this dataset
+### Python Notebook for training on this dataset
 The link to gist of the [PKRS_Classifier.ipynb](https://colab.research.google.com/gist/GM223/c9673150974efd4e25fbc3bebded4351/pkrs_classifier.ipynb)
 
 The link to github [PKRS_Classifier.ipynb](https://github.com/GM223/PKrs_currency/blob/master/PKRS_Classifier.ipynb)
