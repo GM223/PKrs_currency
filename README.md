@@ -1,7 +1,7 @@
 # PKrs_currency
 Pakistan currency classification using deep learning  
 
-I wanted to see how accurate a Neural Network would be at categorising images of currency. Being a resident of Pakistan i wanted to train it on the [Pakistnai Rupee](https://en.wikipedia.org/wiki/Pakistani_rupee)  but a quick google search discovered that there were very little camera images of the different Pakistani notes on the internet so i created the dataset myself.
+I wanted to see how accurate a Neural Network would be at categorising images of currency. Being a resident of Pakistan i wanted to train it on the [Pakistnai Rupee](https://en.wikipedia.org/wiki/Pakistani_rupee) but a quick google search discovered that there were very little camera images of the different Pakistani notes on the internet so i created the dataset myself.
 
 The different bank notes in the dataset are as following : 
 
@@ -36,3 +36,12 @@ I then took pictures of all the notes and divided them in train and validation s
 The data was distributed into a dataset directory structure as shown below:
 
 ![alt text](https://github.com/GM223/PKrs_currency/blob/master/others/direct_struct.PNG?raw=true)
+
+### The notebook for training this dataset
+The link to gist of the [PKRS_Classifier.ipynb](https://colab.research.google.com/gist/GM223/c9673150974efd4e25fbc3bebded4351/pkrs_classifier.ipynb)
+
+The link to github [PKRS_Classifier.ipynb](https://github.com/GM223/PKrs_currency/blob/master/PKRS_Classifier.ipynb)
+
+***The model achieved an accuracy of 98.5%***.
+
+This code is based on code from a [fast.ai](https://github.com/fastai/fastai) MOOC that will be publicly available in Jan 2019.
