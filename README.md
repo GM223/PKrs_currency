@@ -42,6 +42,6 @@ The link to gist of the [PKRS_Classifier.ipynb](https://colab.research.google.co
 
 The link to github [PKRS_Classifier.ipynb](https://github.com/GM223/PKrs_currency/blob/master/PKRS_Classifier.ipynb)
 
-***The model achieved an accuracy of 98.5%***.
+**The model achieved a classification accuracy of 98.5%**.
 
 This code is based on code from a [fast.ai](https://github.com/fastai/fastai) MOOC that will be publicly available in Jan 2019.
